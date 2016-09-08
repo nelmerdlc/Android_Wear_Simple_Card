@@ -22,7 +22,7 @@ public class SimpleCard extends Activity {
         FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
 
         //here is basically where we create an instance of the CardFragment and we put the content to display; a title, the description inside the card and the icon.
-        CardFragment cardFragment = CardFragment.create("Title", "Description", R.mipmap.ic_launcher);
+        CardFragment cardFragment = CardFragment.create("Card Title", "Card Content", R.drawable.ic_watch);
         //in this line we tell the card to show at the bottom of the screen. You can say BOTTOM or TOP. THIS LINE IS OPTIONAL. THE APP WON'T CRASH IF YOU JUST DON'T PUT IT.
         cardFragment.setCardGravity(Gravity.BOTTOM);
 
