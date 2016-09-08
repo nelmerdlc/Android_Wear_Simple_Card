@@ -6,4 +6,4 @@ The result is a card displaying a Title with a description and an icon. The code
 Enjoy :)
 
 ##Screenshot
-![1](https://cloud.githubusercontent.com/assets/5642644/17644299/73b26792-6150-11e6-9aab-205200b916b2.PNG)
+![12](https://cloud.githubusercontent.com/assets/5642644/18363673/0fefc284-75d9-11e6-91ab-3025e451f2a5.PNG)
